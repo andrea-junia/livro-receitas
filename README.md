@@ -1,5 +1,5 @@
 
-# Livro de Receitas :rooster
+# Livro de Receitas 
 
  ola! bem vindo ao meu livro de receitas
  
